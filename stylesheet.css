@@ -1,0 +1,71 @@
+*{
+    margin: 0; padding: 0;
+}
+.header{
+    height:100px;
+    background-color: lightcoral;
+}
+.container{
+    overflow: hidden;
+    margin-top: 30px;
+
+}
+.box{
+    width: 20%;
+    height: 100px;
+    float: left;
+}
+.box1{
+    width:33.3%;
+    height: 100px;
+    float: left;
+}
+.color{
+    width:25%;
+    height: 100px;
+    float: left;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: rgb(8, 204, 80);
+}
+.yellow{
+    background-color: rgb(222, 241, 13);
+}
+.black{
+    background-color: rgb(20, 129, 230);
+}
+.tomatto{
+    background-color: tomato;
+}
+.orange{
+    background-color: red;
+}
+.orange1{
+    background-color: rgb(8, 204, 80);
+}
+.orange2{
+    background-color: rgb(143, 60, 199);
+}
+.orange3{
+    background-color: rgb(147, 21, 71);
+}
+.orange4{
+    background-color: rgba(33, 45, 50, 0.451);
+}
+.yellow1{
+    background-color: rgb(8, 204, 80);
+}
+.yellow2{
+    background-color: rgb(141, 89, 118);
+}
+.yellow3{
+    background-color: rgb(190, 239, 45);
+}
+
+.footer{
+    height:100px;
+    background-color: rgb(9, 0, 5);
+}
